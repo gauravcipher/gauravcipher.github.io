@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 73 73" xmlns="http://www.w3.org/2000/svg">
+    <title>Vue</title>
+    <g fill="none">
+        <g transform="translate(2 2)" fill="#fff" stroke="#34495E" stroke-width="2">
+            <rect x="-1" y="-1" width="71" height="71" rx="14" />
+        </g>
+        <g transform="translate(11 14)">
+            <g transform="translate(26.036 22.634) scale(-1 1) rotate(180) translate(-25.901 -22.5)">
+                <g id="a" transform="translate(.015698 .002616)" fill="#41B883">
+                    <polygon
+                        points="31.657 44.739 25.726 34.466 19.795 44.739 0.044739 44.739 25.726 0.2564 51.408 44.739" />
+                </g>
+                <g transform="translate(10.219 17.793)" fill="#34495E">
+                    <polygon
+                        points="21.454 26.948 15.523 16.675 9.5918 26.948 0.11381 26.948 15.523 0.25901 30.932 26.948" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

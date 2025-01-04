@@ -1,0 +1,7 @@
+<svg width="1em" height="1em" viewBox="0 0 19 24" fill="none" {...props}>
+  <path fillRule="evenodd" clipRule="evenodd" d="M0 0h13.423l4.599 4.106c1.16 1.04 1.16 2.737 0 3.777l-4.599 4.106L0 0z"
+    fill="#306CE8" />
+  <path fillRule="evenodd" clipRule="evenodd" d="M0 0l6.7 6L0 12V0zM0 12l6.7 6L0 24V12z" fill="#2455B7" />
+  <path fillRule="evenodd" clipRule="evenodd"
+    d="M0 24l13.412-12 4.599 4.106c1.16 1.04 1.16 2.737 0 3.777l-4.598 4.106L0 24z" fill="#306CE8" />
+</svg>
